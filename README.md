@@ -14,6 +14,7 @@ and feedback-driven improvement.
 Designed a structured onboarding workflow to guide new customers through
 account setup, core feature adoption, and early success milestones.
 ![Customer Onboarding Workflow](onboarding-workflow.png)
+This workflow is designed for SaaS and aviation-focused platforms where fast time-to-value, structured training, and operational readiness are critical.
 
 ### Focus Areas
 - New customer welcome and orientation
