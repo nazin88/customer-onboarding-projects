@@ -13,6 +13,7 @@ and feedback-driven improvement.
 
 Designed a structured onboarding workflow to guide new customers through
 account setup, core feature adoption, and early success milestones.
+![Customer Onboarding Workflow](onboarding-workflow.png)
 
 ### Focus Areas
 - New customer welcome and orientation
