@@ -24,6 +24,13 @@ account setup, core feature adoption, and early success milestones.
 
 This project demonstrates how onboarding can be structured to reduce friction
 and ensure customers reach value quickly.
+### What an Onboarding Specialist Owns in This Workflow
+
+- Coordinating onboarding timelines and milestones with customers
+- Leading training sessions and walkthroughs aligned to customer goals
+- Monitoring progress and identifying onboarding risks early
+- Partnering with internal teams to resolve setup or adoption issues
+- Ensuring a smooth transition from onboarding to ongoing support
 
 ---
 
